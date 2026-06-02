@@ -1,15 +1,18 @@
 SCM Assistant Bot
 
 1.Public Chatbot URL:https://cloud.flowiseai.com/chatbot/ee7dc56f-d680-4c74-b913-d02f109fc490
-=======================================================================================================================================================
+
+
 2.LLM and Embeddings Used
 - LLM: [MistralAI]
 - Embeddings Model:[MistralAI Embedding]
-============================================================================================================================================================
+
+
 3.Chunk Configurations Tried
 	1. Configuration 1:Chunk size: [500], Chunk overlap: [100]
 	2. Configuration 2:Chunk size: [1000], Chunk overlap: [200]
-============================================================================================================================================================
+
+
 4.Q&A Verification (Verbatim)
 
 
